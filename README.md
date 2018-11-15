@@ -1,2 +1,2 @@
 # data_structure_algorithm
-It's me, Ron Kristian Capin
+Activity in Data Structures and Algorithm submitted by Ron Kristian Capin
